@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_detail.xml",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\layout\\device_detail.xml"
+    },
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_devices.xml",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\layout\\row_devices.xml"
+    }
+]

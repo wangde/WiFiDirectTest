@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\android\work\WiFiDirectDemo\app\src\main\assets"><file name="sample_file.txt" path="F:\android\work\WiFiDirectDemo\app\src\main\assets\sample_file.txt"/></source><source path="F:\android\work\WiFiDirectDemo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\android\work\WiFiDirectDemo\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\machine.png",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\drawable\\machine.png"
+    },
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_view.xml",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\drawable\\details_view.xml"
+    },
+    {
+        "merged": "F:\\android\\work\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\section_header.xml",
+        "source": "F:\\android\\work\\WiFiDirectDemo\\app\\src\\main\\res\\drawable\\section_header.xml"
+    }
+]
